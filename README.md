@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently work on e-Shopping app using Java 🟨 [Winkel](https://github.com/eIbrahim67/Winkel)
 
-- 🌱 I’m currently learning **mvvm, mvc, mvp, and advanced algorithms.**
-
 - And social media app using Kotlin 🟪 [Alfa](https://github.com/eIbrahim67/Alfa)
+
+- 🌱 I’m currently learning **mvvm, mvc, mvp, and advanced algorithms.**
 
 - 👨‍💻 All of my projects are available here.
 
