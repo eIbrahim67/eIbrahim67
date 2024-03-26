@@ -2,6 +2,8 @@
 <h3 align="center">A Medior native Android developer</h3>
 <h3 align="center">from Egypt</h3>
 
+<p align="center"> <a ><img src="https://github.com/eIbrahim67/eIbrahim67/blob/main/carbon%20(6).png" alt="eibrahim67" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eibrahim67" alt="eibrahim67" /></a> </p>
 
 <p align="left"> 
