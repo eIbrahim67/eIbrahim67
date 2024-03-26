@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mohamed</h1>
-<h3 align="center">A Medior native Android developer</h3>
-<h3 align="center">from Egypt</h3>
 
 <p align="center"> <a ><img src="https://github.com/eIbrahim67/eIbrahim67/blob/main/carbon%20(6).png" alt="eibrahim67" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eibrahim67" alt="eibrahim67" /></a> </p>
+<h3 align="center">A Medior native Android developer</h3>
+<h3 align="center">from Egypt</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eibrahim67" alt="eibrahim67" /></a> </p>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/ibrahim-mohamed-03b509259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://www.redeye.co/hubfs/Linkedin%20button_light.svg"  alt="Connect with me in LinkedIn" width="160" height="80" /></a> </p>
@@ -47,6 +48,7 @@
 </p>
 
 <h3 align="left">GitHub states:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&" alt="eibrahim67" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibrahim67&show_icons=true&locale=en&layout=compact" alt="eibrahim67" /></p>
+
+<p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&" alt="eibrahim67" /></a> </p>
+<p align="center"> <a ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibrahim67&show_icons=true&locale=en&layout=compact" alt="eibrahim67" /></a> </p>
 
