@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **mvvm, mvc, mvp, and advanced algorithms.**
 
-- And social media app using Kotlin🟪 [Alfa](https://github.com/eIbrahim67/Alfa)
+- And social media app using Kotlin 🟪 [Alfa](https://github.com/eIbrahim67/Alfa)
 
-- 👨‍💻 All of my projects are available at [https://github.com/eIbrahim67](https://github.com/eIbrahim67)
+- 👨‍💻 All of my projects are available here.
 
 - 📫 How to reach me **ibrahim.mohamed.ibrahim.t@gmail.com**
 
