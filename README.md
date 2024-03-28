@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mohamed</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%36b723&lines=Computer+science+student+in+3rd+year.)](https://git.io/typing-svg)
+
 <p align="center"> <a ><img src="https://github.com/eIbrahim67/eIbrahim67/blob/main/carbon%20(6).png" alt="eibrahim67" /></a> </p>
 
 <h3 align="center">A Medior native Android developer</h3>
@@ -49,6 +51,9 @@
 
 <h3 align="left">GitHub states:</h3>
 
-<p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&" alt="eibrahim67" /></a> </p>
-<p align="center"> <a ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibrahim67&show_icons=true&locale=en&layout=compact" alt="eibrahim67" /></a> </p>
+<p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
+<p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&theme=dark&" alt="eibrahim67" /></a> </p>
+<p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eibrahim67&theme=dark" alt="eibrahim67"/></a> </p>
+<p align="center"> <a ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibrahim67&show_icons=true&locale=en&layout=compact&theme=dark" alt="eibrahim67" /></a> </p>
+
 
