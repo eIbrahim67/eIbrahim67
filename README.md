@@ -16,7 +16,14 @@
 
 - And social media app using Kotlin 🟪 [Alfa](https://github.com/eIbrahim67/Alfa)
 
-- 🌱 I’m currently learning **mvvm, mvc, mvp, and advanced algorithms.**
+- 🌱 I’m currently learning and interested in:
+    - **mvvm, MVC, MVP.**
+    - **Design Pattern.**
+    - **SOLID principles.**
+    - **Design Architecture.**
+    - **Advanced Java programming language (OOP).**
+    - **Advanced Kotlin programming language (OOP).**
+    - **Advanced Algorithms.**
 
 - 👨‍💻 All of my projects are available here.
 
