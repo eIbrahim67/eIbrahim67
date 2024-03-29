@@ -63,6 +63,6 @@
 <h3 align="left">GitHub Statistics:</h3>
 
 <p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
-<p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&theme=dark&" alt="eibrahim67" /></a> </p>
+<p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
 <p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eibrahim67&theme=dark" alt="eibrahim67"/></a> </p>
 <p align="center"> <a ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibrahim67&show_icons=true&locale=en&layout=compact&theme=dark" alt="eibrahim67" /></a> </p>
