@@ -33,11 +33,13 @@
 
 <h3 align="left"> 🤝 Connect With Me:</h3>
 <p align="left">
-  
-<a href="https://twitter.com/eibrahim67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eibrahim67" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ibrahim-mohamed-03b509259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim mohamed" height="30" width="40" /></a>
+<a href="https://dev.to/eibrahim67" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png" alt="ibrahim mohamed" height="30" width="40" /></a>
+<a href="https://twitter.com/eibrahim67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eibrahim67" height="30" width="40" /></a>
+  <a href="https://t.me/eIbrahim67" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="ibrahim mohamed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@eIbrahim67" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="ibrahim mohamed" height="30" width="40" /></a>
-<a href="https://t.me/eIbrahim67" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="ibrahim mohamed" height="30" width="40" /></a>
+
+  
 <h3 align="left">Problem Solving Platforms I Use:</h3>
 <p align="left">
 
