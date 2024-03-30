@@ -66,3 +66,7 @@
 <p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
 <p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eibrahim67&theme=dark" alt="eibrahim67"/></a> </p>
 <p align="center"> <a ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibrahim67&show_icons=true&locale=en&layout=compact&theme=dark" alt="eibrahim67" /></a> </p>
+
+<h3 align="left">LeetCode Statistics:</h3>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/eIbrahim67?theme=unicorn&font=Kufam&ext=activity)
