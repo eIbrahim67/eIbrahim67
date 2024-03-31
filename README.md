@@ -60,13 +60,13 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Statistics:</h3>
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
 <p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
 <p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eibrahim67&theme=dark" alt="eibrahim67"/></a> </p>
 <p align="center"> <a ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibrahim67&show_icons=true&locale=en&layout=compact&theme=dark" alt="eibrahim67" /></a> </p>
 
-<h3 align="left">LeetCode Statistics:</h3>
+<h3 align="center">LeetCode Statistics</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/eIbrahim67?theme=unicorn&font=Kufam&ext=activity)
+<p align="center"> <a ><img src="https://leetcard.jacoblin.cool/eIbrahim67?theme=unicorn&font=Kufam&ext=activity" alt="eibrahim67" /></a> </p>
