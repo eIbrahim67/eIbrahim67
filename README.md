@@ -17,8 +17,15 @@
 
 
 - **🔭 Currently Working On:**
-    - [Winkel](https://github.com/eIbrahim67/Winkel): An e-Shopping app using Java 🟨 
-    - [Alfa](https://github.com/eIbrahim67/Alfa): A social media app using Kotlin 🟪 
+  - **🔭 Projects:**
+      - [Winkel](https://github.com/eIbrahim67/Winkel): An e-Shopping app developed with Java 🟨 
+      - [Alfa](https://github.com/eIbrahim67/Alfa): A social media app built with Kotlin 🟪
+   
+  - **🔭 Problem Solving:**
+      - My solutions in Kotlin 🟪: [leetcode solved problems using Kotlin](https://github.com/eIbrahim67/leetcode_solved_problems_using_kotlin)
+      - My solutions in Java 🟨: [leetcode solved problems using Java](https://github.com/eIbrahim67/leetcode_solved_problems_using_java)
+      - My solutions in C# 🟩: [leetcode solved problems using C#](https://github.com/eIbrahim67/leetcode_solved_problems_using_csharp)
+    
 
 - **🌱 Currently Learning and Interested In:**
     - MVVM, MVC, MVP.
