@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ibrahim Mohamed</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%36b723&lines=Computer+science+student+in+3rd+year.)](https://git.io/typing-svg)
+<a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=744FF7&center=true&random=false&width=435&lines=Computer+Science+student" alt="Typing SVG" /></a>
 
 <p align="center"> <a ><img src="https://github.com/eIbrahim67/eIbrahim67/blob/main/carbon%20(8).png" alt="eibrahim67" /></a> </p>
 
