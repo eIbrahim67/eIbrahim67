@@ -24,7 +24,6 @@
   - **🔭 Problem Solving:**
       - My solutions in Kotlin 🟪: [leetcode solved problems using Kotlin](https://github.com/eIbrahim67/leetcode_solved_problems_using_kotlin)
       - My solutions in Java 🟨: [leetcode solved problems using Java](https://github.com/eIbrahim67/leetcode_solved_problems_using_java)
-      - My solutions in C# 🟩: [leetcode solved problems using C#](https://github.com/eIbrahim67/leetcode_solved_problems_using_csharp)
     
 
 - **🌱 Currently Learning and Interested In:**
