@@ -22,8 +22,8 @@
       - [Alfa](https://github.com/eIbrahim67/Alfa): A social media app built with Kotlin 🟪
    
   - **🔭 Problem Solving:**
-      - My solutions in Kotlin 🟪: [leetcode solved problems using Kotlin](https://github.com/eIbrahim67/leetcode_solved_problems_using_kotlin)
-      - My solutions in Java 🟨: [leetcode solved problems using Java](https://github.com/eIbrahim67/leetcode_solved_problems_using_java)
+      - My solutions in Kotlin 🟪: [leetcode solved problems using Kotlin](https://github.com/eIbrahim67/leetcode_solved_problems_using_kotlin/tree/master/src/main/kotlin)
+      - My solutions in Java 🟨: [leetcode solved problems using Java](https://github.com/eIbrahim67/leetcode_solved_problems_using_java/tree/master/src)
     
 
 - **🌱 Currently Learning and Interested In:**
