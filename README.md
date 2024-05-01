@@ -2,8 +2,6 @@
 
 <a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=744FF7&center=true&random=false&width=435&lines=Computer+Science+student" alt="Typing SVG" /></a>
 
-<p align="center"> <a ><img src="https://github.com/eIbrahim67/eIbrahim67/blob/main/carbon%20(8).png" alt="eibrahim67" /></a> </p>
-
 <h3 align="center">Experienced Native Android Developer</h3>
 <h3 align="center">Based in Egypt</h3>
 
