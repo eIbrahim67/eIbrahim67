@@ -39,9 +39,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ibrahim-mohamed-03b509259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim mohamed" height="30" width="40" /></a>
 <a href="https://dev.to/eibrahim67" target="_blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png" alt="ibrahim mohamed" height="30" width="40" /></a>
-<a href="https://twitter.com/eibrahim67" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eibrahim67" height="30" width="40" /></a>
-  <a href="https://t.me/eIbrahim67" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="ibrahim mohamed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@eIbrahim67" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="ibrahim mohamed" height="30" width="40" /></a>
 
   
 <h3 align="left">Problem Solving Platforms I Use:</h3>
@@ -55,8 +52,6 @@
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">GitHub Statistics</h3>
