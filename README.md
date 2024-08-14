@@ -40,14 +40,6 @@
 <a href="https://www.linkedin.com/in/ibrahim-mohamed-03b509259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim mohamed" height="30" width="40" /></a>
 <a href="https://dev.to/eibrahim67" target="_blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png" alt="ibrahim mohamed" height="30" width="40" /></a>
 
-  
-<h3 align="left">Problem Solving Platforms I Use:</h3>
-<p align="left">
-
-  <a href="https://www.leetcode.com/eibrahim67" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eibrahim67" height="30" width="40" /></a>
-
-</p>
-
 <h3 align="left">Languages I Use:</h3>
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
@@ -58,9 +50,4 @@
 
 <p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
 <p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
-<p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eibrahim67&theme=dark" alt="eibrahim67"/></a> </p>
-<p align="center"> <a ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eibrahim67&show_icons=true&locale=en&layout=compact&theme=dark" alt="eibrahim67" /></a> </p>
 
-<h3 align="center">LeetCode Statistics</h3>
-
-<p align="center"> <a ><img src="https://leetcard.jacoblin.cool/eIbrahim67?theme=unicorn&font=Kufam&ext=activity" target="_blank" alt="eibrahim67" /></a> </p>
