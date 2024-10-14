@@ -18,7 +18,7 @@
   - **🔭 Projects:**
       - [Winkel](https://github.com/eIbrahim67/Winkel): An e-Shopping app developed with Java 🟨 
       - [Alfa](https://github.com/eIbrahim67/Alfa): A social media app built with Kotlin 🟪
-      - [Alfa](https://github.com/mohand3del/Recipe-App-ITI): A  Fecipe app built with Kotlin 🟪
+      - [Recipe App ITI](https://github.com/mohand3del/Recipe-App-ITI): A  Fecipe app built with Kotlin 🟪
    
   - **🔭 Problem Solving:**
       - My solutions in Kotlin 🟪: [leetcode solved problems using Kotlin](https://github.com/eIbrahim67/leetcode_solved_problems_using_kotlin/tree/master/src/main/kotlin)
