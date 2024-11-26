@@ -5,8 +5,6 @@
 <h3 align="center">Experienced Native Android Developer</h3>
 <h3 align="center">Based in Egypt</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eibrahim67" alt="eibrahim67" /></a> </p>
-
 <p align="left"> 
   <a href="mailto:ibrahim.mohamed.ibrahim.t@gmail.com"><img src="https://img.shields.io/badge/-Email Me-c14438?style=for-the-badge&labelColor=black" alt="Connect with me via Email" /></a>
   <a href="https://www.linkedin.com/in/ibrahim-mohamed-03b509259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Connect with me in LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" /></a>
@@ -19,6 +17,7 @@
       - [Winkel](https://github.com/eIbrahim67/Winkel): An e-Shopping app developed with Java 🟨 
       - [Alfa](https://github.com/eIbrahim67/Alfa): A social media app built with Kotlin 🟪
       - [Recipe App ITI](https://github.com/mohand3del/Recipe-App-ITI): A  Fecipe app built with Kotlin 🟪
+      - [GymPro](https://github.com/eIbrahim67/GymPro): A Training Assistant app built with Kotlin 🟪
    
   - **🔭 Problem Solving:**
       - My solutions in Kotlin 🟪: [leetcode solved problems using Kotlin](https://github.com/eIbrahim67/leetcode_solved_problems_using_kotlin/tree/master/src/main/kotlin)
