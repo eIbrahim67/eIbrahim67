@@ -2,7 +2,7 @@
 
 <a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=744FF7&center=true&random=false&width=435&lines=Computer+Science+student" alt="Typing SVG" /></a>
 
-<h3 align="center">Experienced Native Android Developer</h3>
+<h3 align="center">Experienced Native Android Developer & AI Enthusiast</h3>
 <h3 align="center">Based in Egypt</h3>
 
 <p align="left"> 
@@ -25,13 +25,19 @@
     
 
 - **🌱 Currently Learning and Interested In:**
-    - MVVM, MVC, MVP.
-    - Design Patterns.
-    - SOLID Principles.
-    - Design Architecture.
-    - Advanced Java Programming Language (OOP).
-    - Advanced Kotlin Programming Language (OOP).
-    - Advanced Algorithms.
+  - **📱 Mobile Development:**
+    - MVVM, MVC, MVP Architecture Patterns
+    - Design Patterns for Scalable Apps
+    - SOLID Principles for Maintainable Code
+    - Clean Architecture & Best Practices
+    - Advanced Java & Kotlin
+    - Optimizing Algorithms for Mobile Performance
+  - **🤖 Artificial Intelligence & Backend AI Integration:**
+    - AI-powered Chatbots (LLM Fine-tuning, NLP)
+    - Machine Learning Model Optimization
+    - OCR & Image-to-Text Processing
+    - AI-driven Search & Recommendation Systems
+    - Backend Integration for AI Services
 
 - 👨‍💻 All of My Projects Are Available [Here](https://github.com/eIbrahim67?tab=repositories).
 
@@ -44,10 +50,18 @@
 <p align="left"> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="java" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">GitHub Statistics</h3>
 
-<p align="center"> <a ><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
+<p align="center"> <a ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
 <p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
-
+<p align="center">
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eibrahim67&theme=dark" alt="eibrahim67" />
+  </a>
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eibrahim67&theme=dark" alt="eibrahim67" />
+  </a>
+</p>
