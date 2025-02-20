@@ -55,13 +55,20 @@
 
 <h3 align="center">GitHub Statistics</h3>
 
-<p align="center"> <a ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
-<p align="center"> <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eibrahim67&theme=dark" alt="eibrahim67" /></a> </p>
+<p align="center"> <a ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eibrahim67&theme=2077" alt="eibrahim67" /></a> </p>
 <p align="center">
   <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eibrahim67&theme=dark" alt="eibrahim67" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eibrahim67&theme=2077" alt="eibrahim67" />
   </a>
   <a>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eibrahim67&theme=dark" alt="eibrahim67" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eibrahim67&theme=2077&utcOffset=8" alt="eibrahim67" />
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eibrahim67&theme=2077" alt="eibrahim67" />
+  </a>
+  <a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eibrahim67&theme=2077" alt="eibrahim67" />
   </a>
 </p>
